@@ -248,6 +248,7 @@ ul {
 	.footer {
 		grid-template: 1fr 1fr / 1fr;
 		justify-items: center;
+		padding: 0;
 	}
 
 	.footer__copy {
